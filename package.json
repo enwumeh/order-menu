@@ -1,0 +1,27 @@
+{
+  "name": "order-menu-challenge",
+  "version": "1.0.0",
+  "description": "order menu challenge",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "jest-tobetype": "^1.2.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enwumeh/order-menu-challenge.git"
+  },
+  "author": "Emma Nwumeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enwumeh/order-menu-challenge/issues"
+  },
+  "homepage": "https://github.com/enwumeh/order-menu-challenge#readme",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
