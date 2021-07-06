@@ -33,6 +33,6 @@ node index.js
 ```
 
 
-##dependencies used:
+## Dependencies used:
 
 1. prompt (npm package) 
