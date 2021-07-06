@@ -31,3 +31,8 @@ npm i or npm install
 node index.js
 
 ```
+
+
+##dependencies used:
+
+1. prompt (npm package) 
